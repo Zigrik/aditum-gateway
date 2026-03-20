@@ -1,0 +1,2 @@
+# aditum-gateway
+api-gateway
